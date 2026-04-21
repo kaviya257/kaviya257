@@ -62,9 +62,13 @@ ML-powered system for detecting spam calls using classification models integrate
 🧠 Problem Solving Approach
 
 Breaks problems into modular backend components
+
 Focuses on data consistency and edge cases first
+
 Prefers real-world system thinking over just CRUD logic
+
 Debugs and iterates until system behaves correctly
+
 Builds projects with end-to-end flow understanding
 
 ## 📊 GitHub Stats
