@@ -42,6 +42,7 @@ Inventory-safe purchase system (prevents over-selling)
 Transaction-safe buy/sell logic
 Order lifecycle management
 Real-world e-commerce workflow simulation
+
 📈 Smart Stock Market Management System
 
 A full-stack trading simulation platform using FastAPI + PostgreSQL + Jinja2 templates.
@@ -52,6 +53,7 @@ Stock buy/sell transaction system
 Portfolio and balance tracking
 User authentication & session management
 Database-driven financial logic
+
 📱 Spam Call Detection System
 
 ML-powered system for detecting spam calls using classification models integrated with backend APIs.
